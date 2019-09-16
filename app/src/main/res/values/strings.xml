@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Android Helper Lite</string>
+
+    <string name="channel_name">DATA_CHANEL</string>
+    <string name="channel_description">data montior app</string>
+    <string name="default_notification_channel_id">111</string>
+
+</resources>
